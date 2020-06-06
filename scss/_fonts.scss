@@ -1,0 +1,5 @@
+@import "_mixins/font-face";
+
+@include font-face("calibri", "../fonts/Calibri-Bold/Calibri-Bold", bold);
+@include font-face("calibri", "../fonts/Calibri-Regular/Calibri-Regular");
+@include font-face("tahoma", "../fonts/Tahoma-Regular/Tahoma-Regular");
