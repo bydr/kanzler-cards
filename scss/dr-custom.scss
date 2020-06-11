@@ -9,19 +9,19 @@ html, body {
   height: auto;
   font-size: 16px;
   line-height: 25px;
-  font-family: $font-calibri;
+  font-family: $font-default;
   color: $black;
 }
 
 .heading {
-  font-family: $font-calibri;
+  font-family: $font-headers;
+  font-weight: normal;
 
   &-h1 {
     @extend .heading;
     font-size: 40px;
     line-height: 45px;
     margin: 0 0 40px 0;
-    font-weight: bold;
     text-transform: none;
   }
 
@@ -30,7 +30,6 @@ html, body {
     font-size: 20px;
     line-height: 25px;
     margin: 0 0 30px 0;
-    font-weight: bold;
     text-transform: none;
   }
 }
@@ -52,7 +51,7 @@ p {
   background: $brown;
   color: $light;
   text-transform: uppercase;
-  font-family: 'tahoma', sans-serif;
+  font-family: $font-default-medium;
   border-radius: 5px;
   margin: 10px;
   padding: 5px 10px;

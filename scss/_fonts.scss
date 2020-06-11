@@ -1,5 +1,8 @@
 @import "_mixins/font-face";
 
-@include font-face("calibri", "../fonts/Calibri-Bold/Calibri-Bold", bold);
-@include font-face("calibri", "../fonts/Calibri-Regular/Calibri-Regular");
-@include font-face("tahoma", "../fonts/Tahoma-Regular/Tahoma-Regular");
+
+@include font-face("MuseoSansCyrl-100", "../fonts/MuseoSansCyrl-100");
+@include font-face("MuseoSansCyrl-300", "../fonts/MuseoSansCyrl-300");
+@include font-face("MinionPro-Semibold", "../fonts/MinionPro-Semibold");
+
+

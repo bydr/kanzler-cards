@@ -6,8 +6,9 @@ $light: #fff;
 $brown: #58412c;
 $brownLight: #b09784;
 
-$font-calibri: 'calibri', sans-serif;
-
+$font-default: 'MuseoSansCyrl-100',sans-serif;
+$font-default-medium: 'MuseoSansCyrl-300',sans-serif;
+$font-headers: "MinionPro-SemiBold",sans-serif;
 
 // Customization Bootstrap vars from "app/libs/bootstrap/scss/_variables.scss"
 $grid-gutter-width: 30px;

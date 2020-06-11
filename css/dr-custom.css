@@ -8,22 +8,21 @@ html, body {
   height: auto;
   font-size: 16px;
   line-height: 25px;
-  font-family: "calibri", sans-serif;
+  font-family: "MuseoSansCyrl-100", sans-serif;
   color: #111111; }
 
 .heading, .heading-h1, .heading-h3 {
-  font-family: "calibri", sans-serif; }
+  font-family: "MinionPro-SemiBold", sans-serif;
+  font-weight: normal; }
   .heading-h1 {
     font-size: 40px;
     line-height: 45px;
     margin: 0 0 40px 0;
-    font-weight: bold;
     text-transform: none; }
   .heading-h3 {
     font-size: 20px;
     line-height: 25px;
     margin: 0 0 30px 0;
-    font-weight: bold;
     text-transform: none; }
 
 .dr-text__normal {
@@ -39,7 +38,7 @@ p {
   background: #58412c;
   color: #fff;
   text-transform: uppercase;
-  font-family: 'tahoma', sans-serif;
+  font-family: "MuseoSansCyrl-300", sans-serif;
   border-radius: 5px;
   margin: 10px;
   padding: 5px 10px;
