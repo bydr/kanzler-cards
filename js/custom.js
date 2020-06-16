@@ -28,7 +28,7 @@ function rotate() {
 
     // Прячем текущую картинку
     current.animate({opacity: 0.0}, 1000).removeClass('show');
-};
+}
 
 $(document).ready(function() {
     // Запускаем слайдшоу

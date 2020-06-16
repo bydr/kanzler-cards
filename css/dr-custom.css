@@ -7,33 +7,64 @@ html, body {
   font-size: 16px;
   line-height: 25px;
   font-family: "MuseoSansCyrl-100", sans-serif;
-  color: #111111; }
+  color: #2c180b; }
 
 .heading, .heading-h1, .heading-h3 {
   font-family: "MinionPro-SemiBold", sans-serif;
   font-weight: normal; }
   .heading-h1 {
-    font-size: 40px;
-    line-height: 45px;
-    margin: 0 0 40px 0;
-    text-transform: none; }
+    font-size: 36px;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 54px;
+    text-transform: uppercase;
+    margin: 0 0 40px; }
   .heading-h3 {
-    font-size: 20px;
-    line-height: 25px;
-    margin: 0 0 30px 0;
-    text-transform: none; }
+    font-size: 24px;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 36px;
+    text-transform: uppercase;
+    margin: 0 0 40px; }
 
-.dr-text__normal {
-  font-size: 16px;
-  line-height: 25px; }
+.dr-text {
+  font-size: 15px;
+  line-height: 22px;
+  font-family: "MuseoSansCyrl-100", sans-serif;
+  margin: 0;
+  padding: 0; }
+  .dr-text__normal {
+    font-size: 16px;
+    line-height: 25px;
+    color: #84807d; }
+
+.dr-title-w-line {
+  position: relative;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  text-align: center; }
+.dr-title-inner {
+  position: relative;
+  padding: 0 30px;
+  margin: 0; }
+.dr-title-line {
+  background: #eae8e5;
+  height: 1px;
+  flex: 1;
+  margin: 0;
+  padding: 0; }
+.dr-title.center {
+  text-align: center; }
 
 p {
-  color: #111111; }
+  color: #2c180b; }
 
 .dr-btn {
   font-size: 18px;
   line-height: 35px;
-  background: #58412c;
+  background: #7a5b48;
   color: #fff;
   text-transform: uppercase;
   font-family: "MuseoSansCyrl-300", sans-serif;

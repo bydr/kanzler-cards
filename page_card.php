@@ -7,7 +7,11 @@ require_once('head.php');
     <section class="dr-section">
         <div class="dr-row">
             <div class="dr-col-12">
-                <h1 class="heading-h1 text-center">Подарочные карты KANZLER! Дарите стильные решения!</h1>
+                <h1 class="heading-h3 dr-title-w-line text-center">
+                    <span class="dr-title-line"></span>
+                    <span class="dr-title-inner">Подарочные карты KANZLER! Дарите стильные решения!</span>
+                    <span class="dr-title-line"></span>
+                </h1>
                 <p class="dr-text__normal text-center">Подарочная карта KANZLER – более 100 вариантов стильных подарков
                     для мужчин.
                     Позвольте мужчинам самостоятельно принять решение и выбрать подходящий для себя вариант. Будьте
@@ -20,7 +24,11 @@ require_once('head.php');
     <section class="dr-section section-cert">
         <div class="dr-row">
             <div class="dr-col-12">
-                <h2 class="heading-h1 text-center">Электронные подарочные карты сертификаты</h2>
+                <h2 class="heading-h3 dr-title-w-line text-center">
+                    <span class="dr-title-line"></span>
+                    <span class="dr-title-inner">Электронные подарочные карты сертификаты</span>
+                    <span class="dr-title-line"></span>
+                </h2>
             </div>
         </div>
         <div class="dr-row">
@@ -65,7 +73,11 @@ require_once('head.php');
     <section class="dr-section section-cards">
         <div class="dr-row">
             <div class="dr-col-12">
-                <h2 class="heading-h1 text-center">Пластиковые Подарочные сертификаты</h2>
+                <h2 class="heading-h3 dr-title-w-line text-center">
+                    <span class="dr-title-line"></span>
+                    <span class="dr-title-inner">Пластиковые Подарочные сертификаты</span>
+                    <span class="dr-title-line"></span>
+                </h2>
             </div>
         </div>
         <div class="dr-row">
@@ -98,7 +110,11 @@ require_once('head.php');
     <section class="dr-section section-cards">
         <div class="dr-row">
             <div class="dr-col-12">
-                <h2 class="heading-h1 text-center">Условия использования подарочной карты</h2>
+                <h2 class="heading-h3 dr-title-w-line text-center">
+                    <span class="dr-title-line"></span>
+                    <span class="dr-title-inner">Условия использования подарочной карты</span>
+                    <span class="dr-title-line"></span>
+                </h2>
                 <ul class="list-initial max-w-750">
                     <li>Подарочная карта KANZLER не является именно, может быть передана любому человеку и изымается после реализации в пластиковом варианте.</li>
                     <li>  Правом пользования картой обладает как ее приобретатель, так и третье лицо, которому была передана карта. </li>
@@ -126,7 +142,7 @@ require_once('head.php');
         <div class="dr-row">
             <div class="dr-col-12">
                 <div class="overlay-block bg-brown__light">
-                    <p class="heading-h3 text-center c-light">KANZLER угадывает любые желания, именно здесь Вы можете купить качественные,комфортные и стильные подарки для мужчин!</p>
+                    <p class="heading-h3 dr-title-w-line text-center c-light">KANZLER угадывает любые желания, именно здесь Вы можете купить качественные,комфортные и стильные подарки для мужчин!</p>
                 </div>
             </div>
         </div>
