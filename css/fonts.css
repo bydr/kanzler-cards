@@ -35,9 +35,9 @@
   font-weight: normal;
   font-style: normal; }
 @font-face {
-  font-family: 'MinionPro-Semibold';
-  src: url("../fonts/MinionPro-Semibold.eot");
-  src: local("MinionPro-Semibold"), local("MinionPro-Semibold"), url("../fonts/MinionPro-Semibold.eot?#iefix") format("embedded-opentype"), url("../fonts/MinionPro-Semibold.woff") format("woff"), url("../fonts/MinionPro-Semibold.ttf") format("truetype");
+  font-family: 'MinionPro-SemiBold';
+  src: url("../fonts/MinionPro-SemiBold.eot");
+  src: local("MinionPro-SemiBold"), local("MinionPro-SemiBold"), url("../fonts/MinionPro-SemiBold.eot?#iefix") format("embedded-opentype"), url("../fonts/MinionPro-SemiBold.woff") format("woff"), url("../fonts/MinionPro-SemiBold.ttf") format("truetype");
   font-weight: normal;
   font-style: normal; }
 @font-face {
