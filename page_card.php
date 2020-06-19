@@ -142,7 +142,7 @@ require_once('head.php');
         <div class="dr-row">
             <div class="dr-col-12">
                 <div class="overlay-block bg-brown__light">
-                    <p class="heading-h3 dr-title-w-line text-center c-light">KANZLER угадывает любые желания, именно здесь Вы можете купить качественные,комфортные и стильные подарки для мужчин!</p>
+                    <p class="heading-h3 dr-title-w-line text-center c-light">KANZLER угадывает любые желания, именно здесь Вы можете купить качественные, комфортные и стильные подарки для мужчин!</p>
                 </div>
             </div>
         </div>

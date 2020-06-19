@@ -10,12 +10,13 @@ html, body {
   font-size: 16px;
   line-height: 25px;
   font-family: $font-default;
-  color: $black;
+  color: $superLightBlack;
 }
 
 .heading {
   font-family: $font-headers;
   font-weight: normal;
+  color: $black;
 
   &-h1 {
     @extend .heading;
@@ -60,6 +61,7 @@ html, body {
     align-items: center;
     flex-wrap: nowrap;
     text-align: center;
+    justify-content: center;
   }
   &-inner {
     position: relative;
@@ -234,6 +236,7 @@ p {
     padding: 30px 15px;
     > * {
       margin: 0;
+      display: inline-block;
     }
   }
 }
@@ -248,8 +251,12 @@ p {
 }
 
 img {
-  -o-object-fit: fill;
-  object-fit: fill;
+  max-width: 100% !important;
+  -o-object-fit: initial!important;
+  object-fit: initial!important;
+}
+.section-cards .image-box {
+  display: block;
 }
 
 @import "media";
